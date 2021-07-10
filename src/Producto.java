@@ -5,7 +5,5 @@ public class Producto {
 //metodo
     public void mostrar() {
         System.out.println(nombre + ":" + precio);
-    }
- 
-    
+    }   
 }
